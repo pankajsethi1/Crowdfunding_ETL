@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-* Contains 2 folders - CrownFunding_DB, Resources and 1 file - ETL_Mini_Project_CSisemseghan_PSethi.ipynb
+* Contains 2 folders - CrowdFunding_DB, Resources and 1 file - ETL_Mini_Project_CSisemseghan_PSethi.ipynb
 
 *       ETL_Mini_Project_CSisemseghan_PSethi.ipynb
     *   Creates four dataframes - category,subcategory,campaign and contacts and exports the data to csv files in Resources folder
